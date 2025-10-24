@@ -173,7 +173,7 @@ Website yang indah harus tetap cepat dan efisien.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20Synvera&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20💜&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 
 <sub>⭐ Star this repo jika kamu menyukai proyek ini!</sub>
 
