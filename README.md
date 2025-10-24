@@ -1,13 +1,22 @@
 <div align="center">
 
+```
+███████╗██╗     ███████╗ ██████╗  █████╗ ███╗   ██╗████████╗
+██╔════╝██║     ██╔════╝██╔════╝ ██╔══██╗████╗  ██║╚══██╔══╝
+█████╗  ██║     █████╗  ██║  ███╗███████║██╔██╗ ██║   ██║   
+██╔══╝  ██║     ██╔══╝  ██║   ██║██╔══██║██║╚██╗██║   ██║   
+███████╗███████╗███████╗╚██████╔╝██║  ██║██║ ╚████║   ██║   
+╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   
+```
+
 # ✨ Simple & Elegant Website ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Crafting+Digital+Experiences;Simple+Yet+Powerful;Elegance+in+Every+Pixel" alt="Typing SVG" />
+### 🎨 Crafting Digital Experiences | 💎 Simple Yet Powerful | ✨ Elegance in Every Pixel
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-In%20Development-6366F1?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
-  <img src="https://img.shields.io/badge/Design-Elegant-EC4899?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Design"/>
-  <img src="https://img.shields.io/badge/Performance-Optimized-10B981?style=for-the-badge&logo=lighthouse&logoColor=white" alt="Performance"/>
+  <img src="https://img.shields.io/badge/Status-In%20Development-6366F1?style=for-the-badge&logo=rocket&logoColor=white" alt="Status"/>
+  <img src="https://img.shields.io/badge/Design-Elegant-EC4899?style=for-the-badge&logo=figma&logoColor=white" alt="Design"/>
+  <img src="https://img.shields.io/badge/Performance-Optimized-10B981?style=for-the-badge&logo=lightning&logoColor=white" alt="Performance"/>
 </p>
 
 ---
@@ -16,7 +25,8 @@
 
 > *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
-Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan **keanggunan**. Setiap elemen dirancang dengan cermat untuk memberikan pengalaman pengguna yang luar biasa.
+Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan **keanggunan**.  
+Setiap elemen dirancang dengan cermat untuk memberikan pengalaman pengguna yang luar biasa.
 
 ---
 
@@ -24,18 +34,34 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 
 ## 🌟 Fitur Utama
 
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   🎨  Design Minimalis & Modern                         ║
-║   ⚡  Performance Tinggi & Loading Cepat                ║
-║   📱  Responsive di Semua Device                        ║
-║   ♿  Accessibility First                                ║
-║   🔒  SEO Optimized                                      ║
-║   🌈  Smooth Animations & Transitions                   ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+<table>
+<tr>
+<td>
+
 ```
+╔════════════════════════════════════════╗
+║  🎨  Design Minimalis & Modern        ║
+║  ⚡  Performance Tinggi & Cepat       ║
+║  📱  Responsive di Semua Device       ║
+╚════════════════════════════════════════╝
+```
+
+</td>
+<td>
+
+```
+╔════════════════════════════════════════╗
+║  ♿  Accessibility First               ║
+║  🔒  SEO Optimized                     ║
+║  🌈  Smooth Animations                 ║
+╚════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
@@ -43,17 +69,21 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 
 <table>
 <tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br><strong>HTML5</strong>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+<br>HTML5
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br><strong>CSS3</strong>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+<br>CSS3
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
 </td>
 </tr>
 </table>
@@ -64,46 +94,27 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 
 ## 🚀 Roadmap
 
-```mermaid
-graph LR
-    A[🎨 Design] -->|✓| B[💻 Development]
-    B -->|Current| C[🧪 Testing]
-    C --> D[🚀 Launch]
-    D --> E[📈 Optimization]
-    
-    style A fill:#10B981,stroke:#059669,color:#fff
-    style B fill:#10B981,stroke:#059669,color:#fff
-    style C fill:#6366F1,stroke:#4F46E5,color:#fff
-    style D fill:#6B7280,stroke:#4B5563,color:#fff
-    style E fill:#6B7280,stroke:#4B5563,color:#fff
 ```
+┌─────────────┐      ┌─────────────┐      ┌─────────────┐      ┌─────────────┐      ┌─────────────┐
+│             │      │             │      │             │      │             │      │             │
+│  🎨 Design  │ ───► │💻 Development│ ───► │  🧪 Testing │ ───► │  🚀 Launch  │ ───► │📈 Optimize  │
+│             │      │             │      │             │      │             │      │             │
+│   ✅ Done   │      │   ✅ Done   │      │  🔵 Current │      │  ⏳ Next    │      │  ⏳ Future  │
+└─────────────┘      └─────────────┘      └─────────────┘      └─────────────┘      └─────────────┘
+```
+
+---
+
+## 📊 Development Progress
 
 <div align="center">
 
-### 📊 Development Progress
-
-<table>
-<tr>
-<td align="center">🎨 UI Design</td>
-<td align="center">💻 Frontend</td>
-<td align="center">🔧 Backend</td>
-<td align="center">✨ Polish</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://progress-bar.dev/100?title=done&width=120&color=10B981" alt="100%"/>
-</td>
-<td align="center">
-<img src="https://progress-bar.dev/75?title=progress&width=120&color=6366F1" alt="75%"/>
-</td>
-<td align="center">
-<img src="https://progress-bar.dev/40?title=progress&width=120&color=F59E0B" alt="40%"/>
-</td>
-<td align="center">
-<img src="https://progress-bar.dev/0?title=pending&width=120&color=6B7280" alt="0%"/>
-</td>
-</tr>
-</table>
+| Phase | Status | Progress |
+|:------|:------:|:---------|
+| 🎨 **UI Design** | ✅ Complete | `████████████████████` 100% |
+| 💻 **Frontend** | 🔄 Progress | `███████████████░░░░░` 75% |
+| 🔧 **Backend** | 🔄 Progress | `████████░░░░░░░░░░░░` 40% |
+| ✨ **Polish** | ⏳ Pending | `░░░░░░░░░░░░░░░░░░░░` 0% |
 
 </div>
 
@@ -138,24 +149,39 @@ Website yang indah harus tetap cepat dan efisien.
 
 <div align="center">
 
-## 📸 Preview
+## 📸 Preview Features
+
+```
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│   🎨  Beautiful Hero Section                    │
+│   📱  Responsive Navigation                     │
+│   ✨  Smooth Scroll Animations                  │
+│   🖼️   Gallery dengan Lightbox                  │
+│   📝  Contact Form yang Elegan                  │
+│   🌙  Dark Mode Support                         │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
 > *Sneak peek ke dalam apa yang sedang kami bangun...*
 
-```
-┌────────────────────────────────────────────────┐
-│                                                │
-│   🎨 Beautiful Hero Section                   │
-│   📱 Responsive Navigation                     │
-│   ✨ Smooth Scroll Animations                 │
-│   🖼️  Gallery dengan Lightbox                 │
-│   📝 Contact Form yang Elegan                 │
-│   🌙 Dark Mode Support                        │
-│                                                │
-└────────────────────────────────────────────────┘
-```
+</div>
 
 ---
+
+## 🎯 Key Features Detail
+
+- ✨ **Modern Design** - Interface yang clean dan contemporary
+- 🚀 **Fast Loading** - Optimized untuk performa maksimal
+- 📱 **Mobile First** - Didesain untuk mobile, sempurna di desktop
+- ♿ **Accessible** - WCAG 2.1 compliant untuk semua pengguna
+- 🔍 **SEO Ready** - Struktur yang SEO-friendly
+- 🎭 **Interactive** - Micro-interactions yang engaging
+
+---
+
+<div align="center">
 
 ## 📬 Contact
 
@@ -169,12 +195,26 @@ Website yang indah harus tetap cepat dan efisien.
   <a href="https://linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20💜&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║              Made with 💜 by Your Team               ║
+║              © 2024 - All Rights Reserved            ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
 
-<sub>⭐ Star this repo jika kamu menyukai proyek ini!</sub>
+**⭐ Star this repo jika kamu menyukai proyek ini!**
+
+![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/yourusername/yourrepo?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/yourusername/yourrepo?style=social)
 
 </div>
