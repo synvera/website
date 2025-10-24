@@ -55,10 +55,6 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind CSS</strong>
-</td>
 </tr>
 </table>
 
@@ -102,6 +98,9 @@ graph LR
 </td>
 <td align="center">
 <img src="https://progress-bar.dev/40?title=progress&width=120&color=F59E0B" alt="40%"/>
+</td>
+<td align="center">
+<img src="https://progress-bar.dev/0?title=pending&width=120&color=6B7280" alt="0%"/>
 </td>
 </tr>
 </table>
