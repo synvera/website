@@ -157,19 +157,6 @@ Website yang indah harus tetap cepat dan efisien.
 
 ---
 
-## 🤝 Contributing
-
-Proyek ini masih dalam tahap pengembangan aktif. Stay tuned untuk update!
-
-```bash
-# Coming soon...
-git clone [repository-url]
-npm install
-npm run dev
-```
-
----
-
 ## 📬 Contact
 
 <p align="center">
