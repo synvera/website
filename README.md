@@ -12,7 +12,7 @@
 
 ---
 
-### 🎯 **Project Vision**
+###**Project Vision**
 
 > *"Simplicity is the ultimate sophistication."* — Leonardo da Vinci
 
@@ -22,7 +22,7 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 
 </div>
 
-## 🌟 Fitur Utama
+##Fitur Utama
 
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
@@ -39,7 +39,7 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 
 <div align="center">
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 <table>
 <tr>
@@ -55,10 +55,6 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
 <br><strong>JavaScript</strong>
 </td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br><strong>Tailwind CSS</strong>
-</td>
 </tr>
 </table>
 
@@ -66,7 +62,7 @@ Kami sedang membangun sebuah website yang menggabungkan **kesederhanaan** dengan
 
 ---
 
-## 🚀 Roadmap
+##Roadmap
 
 ```mermaid
 graph LR
@@ -84,7 +80,7 @@ graph LR
 
 <div align="center">
 
-### 📊 Development Progress
+###Development Progress
 
 <table>
 <tr>
@@ -113,22 +109,22 @@ graph LR
 
 ---
 
-## 💡 Design Philosophy
+##Design Philosophy
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎯 Minimalism
+###Minimalism
 Kami percaya bahwa *less is more*. Setiap elemen memiliki tujuan dan makna.
 
-### 🌊 Fluid Experience
+###Fluid Experience
 Transisi yang halus dan interaksi yang natural membuat pengguna betah.
 
 </td>
 <td width="50%">
 
-### 🎨 Visual Hierarchy
+###Visual Hierarchy
 Typography dan spacing yang tepat membimbing mata pengguna.
 
 ### ⚡ Performance
@@ -142,7 +138,7 @@ Website yang indah harus tetap cepat dan efisien.
 
 <div align="center">
 
-## 📸 Preview
+##Preview
 
 > *Sneak peek ke dalam apa yang sedang kami bangun...*
 
@@ -161,7 +157,7 @@ Website yang indah harus tetap cepat dan efisien.
 
 ---
 
-## 🤝 Contributing
+##Contributing
 
 Proyek ini masih dalam tahap pengembangan aktif. Stay tuned untuk update!
 
@@ -174,7 +170,7 @@ npm run dev
 
 ---
 
-## 📬 Contact
+##Contact
 
 <p align="center">
   <a href="mailto:your.email@example.com">
@@ -190,8 +186,8 @@ npm run dev
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20💜&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Made%20with%20Synvera&fontSize=20&fontColor=fff&animation=twinkling" width="100%"/>
 
-<sub>⭐ Star this repo jika kamu menyukai proyek ini!</sub>
+<sub>Star this repo jika kamu menyukai proyek ini!</sub>
 
 </div>
